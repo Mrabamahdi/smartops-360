@@ -1,0 +1,158 @@
+{
+  "fontArchiveSha256": "2054eb659c1abb2ac403de47db8526c41248bbb6ab6b8eeaa555b89b9c1733f1",
+  "fonts": [
+    {
+      "file": "Poppins-Light.ttf",
+      "weight": 300,
+      "sha256": "7f15d9a49bc6ca8b49ac995bbc36065b4bab0ed9f6d394a4c49d8f9ac85672c2",
+      "glyphs": {
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "ß": true,
+        "ẞ": false,
+        "€": true
+      }
+    },
+    {
+      "file": "Poppins-Regular.ttf",
+      "weight": 400,
+      "sha256": "2425ebbc021bfdd18fe55edbeeb1539d22a217212c14430a7d4d75266a333bbc",
+      "glyphs": {
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "ß": true,
+        "ẞ": false,
+        "€": true
+      }
+    },
+    {
+      "file": "Poppins-Medium.ttf",
+      "weight": 500,
+      "sha256": "45870260a29fa7d3e0eff8cdd91993fb4a9ce4cced3d7b72c3ef7d24380bfc2d",
+      "glyphs": {
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "ß": true,
+        "ẞ": false,
+        "€": true
+      }
+    },
+    {
+      "file": "Poppins-SemiBold.ttf",
+      "weight": 600,
+      "sha256": "1d665d5b75a9500040b2cc201c2b07af5faca7228372dc6f4572d2d5b2291097",
+      "glyphs": {
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "ß": true,
+        "ẞ": false,
+        "€": true
+      }
+    },
+    {
+      "file": "Poppins-Bold.ttf",
+      "weight": 700,
+      "sha256": "210933fb1bb4e846d37ef00c92cae636ac35633132cf2157c7ac879f27f82068",
+      "glyphs": {
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "ß": true,
+        "ẞ": false,
+        "€": true
+      }
+    }
+  ],
+  "icons": {
+    "family": "Lucide",
+    "package": "lucide-static",
+    "packageVersion": "1.64.0",
+    "tarballSha512": "UxWmMteOXbKHI5E4f2qVtxCAAsI9gsInYK1lNw0nrOA0w4FkJeOVZ+UOV6aGA2377FZe3qyiFYq3lqjBKZ6OuA==",
+    "catalog": "https://lucide.dev/icons/",
+    "license": "https://lucide.dev/license",
+    "groups": {
+      "Navigation": [
+        "panel-left",
+        "panel-left-close",
+        "panel-left-open",
+        "menu",
+        "search",
+        "layout-dashboard",
+        "list-filter",
+        "ellipsis"
+      ],
+      "Work and people": [
+        "wrench",
+        "clipboard-list",
+        "calendar",
+        "clock",
+        "user-round",
+        "users-round",
+        "map-pin",
+        "building-2"
+      ],
+      "Energy and equipment": [
+        "zap",
+        "gauge",
+        "activity",
+        "chart-no-axes-combined",
+        "thermometer",
+        "droplets",
+        "wind",
+        "fan"
+      ],
+      "Cost and purchasing": [
+        "wallet",
+        "credit-card",
+        "receipt",
+        "banknote",
+        "file-check",
+        "shopping-cart",
+        "package",
+        "circle-dollar-sign"
+      ],
+      "Record actions": [
+        "plus",
+        "pencil",
+        "save",
+        "trash-2",
+        "copy",
+        "download",
+        "upload",
+        "check"
+      ],
+      "Status and access": [
+        "info",
+        "triangle-alert",
+        "circle-check",
+        "circle-x",
+        "shield-check",
+        "lock",
+        "settings",
+        "bell"
+      ]
+    },
+    "supportingIcons": [
+      "link"
+    ]
+  }
+}

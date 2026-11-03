@@ -1,0 +1,14 @@
+**/node_modules
+**/.venv
+**/__pycache__
+**/*.sqlite*
+**/*.db
+**/*.dump
+**/*.backup
+**/.env
+**/.env.*
+**/dist
+.local
+docs
+.git
+.github

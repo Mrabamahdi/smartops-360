@@ -1,0 +1,126 @@
+{
+  "jobs": [
+    {
+      "id": "J-041",
+      "site": [
+        "North Office",
+        "Büro Nord"
+      ],
+      "equipment": [
+        "Ventilation V-02",
+        "Lüftung V-02"
+      ],
+      "problem": [
+        "Ventilation runs overnight",
+        "Lüftung läuft nachts"
+      ],
+      "date": "2026-10-27",
+      "status": "completed",
+      "tech": "Lena Weber",
+      "specialty": "hvac",
+      "repair": [
+        "Adjusted timer and checked operation.",
+        "Zeitschaltung angepasst und Betrieb geprüft."
+      ],
+      "hours": 3,
+      "rate": 65,
+      "parts": 80,
+      "travel": 25,
+      "budget": 500
+    },
+    {
+      "id": "J-042",
+      "site": [
+        "West Building",
+        "Gebäude West"
+      ],
+      "equipment": [
+        "Lighting L-03",
+        "Beleuchtung L-03"
+      ],
+      "problem": [
+        "Corridor light flickers",
+        "Flurlicht flackert"
+      ],
+      "date": "2026-11-02",
+      "status": "scheduled",
+      "tech": "Tom Fischer",
+      "specialty": "electrical",
+      "repair": [
+        "",
+        ""
+      ],
+      "hours": 0,
+      "rate": 65,
+      "parts": 0,
+      "travel": 0,
+      "budget": 350
+    },
+    {
+      "id": "J-043",
+      "site": [
+        "North Office",
+        "Büro Nord"
+      ],
+      "equipment": [
+        "Heating H-01",
+        "Heizung H-01"
+      ],
+      "problem": [
+        "Uneven heating",
+        "Ungleichmäßige Heizung"
+      ],
+      "date": "2026-10-31",
+      "status": "progress",
+      "tech": "Lena Weber",
+      "specialty": "hvac",
+      "repair": [
+        "",
+        ""
+      ],
+      "hours": 1,
+      "rate": 65,
+      "parts": 0,
+      "travel": 0,
+      "budget": 450
+    }
+  ],
+  "readings": [
+    {
+      "date": "2026-10-21",
+      "value": 100
+    },
+    {
+      "date": "2026-10-22",
+      "value": 100
+    },
+    {
+      "date": "2026-10-23",
+      "value": 100
+    },
+    {
+      "date": "2026-10-24",
+      "value": 150
+    },
+    {
+      "date": "2026-10-25",
+      "value": 150
+    },
+    {
+      "date": "2026-10-26",
+      "value": 150
+    },
+    {
+      "date": "2026-10-28",
+      "value": 105
+    },
+    {
+      "date": "2026-10-29",
+      "value": 105
+    },
+    {
+      "date": "2026-10-30",
+      "value": 105
+    }
+  ]
+}

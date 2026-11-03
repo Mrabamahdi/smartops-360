@@ -1,0 +1,5 @@
+/* Disable Tailwind's reset so the reviewed original brand remains authoritative. */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+@theme { --color-cobalt:#244C91; --color-canvas:#F4F6F9; --color-ink:#1E2B43; --font-brand:Poppins,Arial,sans-serif; --radius-control:10px; --radius-panel:14px; }
